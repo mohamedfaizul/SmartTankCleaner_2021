@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702754597028",
+    "project_id": "tankcareemployee",
+    "storage_bucket": "tankcareemployee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702754597028:android:dcb70abbb7b8cc4bea9e31",
+        "android_client_info": {
+          "package_name": "com.example.tankcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702754597028-e24kak0fpp4k15ef9qmhkinbiotufd1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYxNT41eIh_OI8ARGBe4-eg5lP9lCwb_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702754597028-e24kak0fpp4k15ef9qmhkinbiotufd1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
